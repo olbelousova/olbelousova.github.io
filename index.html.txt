@@ -79,7 +79,7 @@
 
         </tbody>
     </table>
-<img src="result.jpg">
+<img src="img/result.jpg">
   </div>
 
 </main>
